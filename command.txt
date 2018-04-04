@@ -1,0 +1,6 @@
+% Basic commands to add a file
+git add filename.txt
+git commit -m "this is a comment for this file"
+git remote add origin https://<github-repository>
+git push -u origin master
+
